@@ -38,6 +38,7 @@ header {
 #logo {
     height: 100px;
     width: auto;
+    margin-top: 30px;
 }
 
 #category-listing {
@@ -45,6 +46,8 @@ header {
     display: flex;
     flex-direction: row;
     padding-top: 10px;
+    justify-content: center;
+    color: #909090;
 }
 
 hr {
@@ -53,13 +56,43 @@ hr {
     border: 1px solid rgba(128, 128, 128, 0.104);
 }
 
+span {
+    margin-right: 20px;
+}
+
 #category-container {
-    margin-left: auto;
+    text-wrap: nowrap;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: Recursive;
+    font-style: italic;
+    font-weight: 400px;
 }
 
 img[class='category-icon'] {
     margin-right: 10px;
 }
+
+#category-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#grid {
+    height: 15px;
+    width: 15px;
+}
+
+#list {
+    height: 15px;
+    width: 15px;
+    margin-right: 25px;
+}
+
+/* #first-category {
+    margin
+} */
 
 h1 {
     font-family: Recursive;
