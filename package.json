@@ -1,0 +1,20 @@
+{
+  "name": "figma-example",
+  "version": "1.0.0",
+  "description": "april 2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalobmj/figma-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalobmj/figma-example/issues"
+  },
+  "homepage": "https://github.com/kalobmj/figma-example#readme"
+}
