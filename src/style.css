@@ -114,3 +114,31 @@ h2 {
     padding-top: 15px;
     padding-bottom: 60px;
 }
+
+#article-container {
+    margin-top: 80px;
+    width: 80%;
+}
+
+#article-card {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.959);
+    border-radius: 30px;
+    border: 1px solid #252930;
+    color: #0F1217;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#article-img {
+    width: 50%;
+    height: auto;
+    border-radius: 30px;
+}
+
+#article-footer {
+    display: flex;
+    justify-content: space-around;
+}
