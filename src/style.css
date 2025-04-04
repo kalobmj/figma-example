@@ -1,0 +1,57 @@
+* {
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+}
+
+html {
+    font-family: Poppins;
+    height: 100vh;
+    width: 100%;
+}
+
+body {
+    display: flex;
+    padding: 25px;
+    align-items: center;
+    flex-direction: column;
+}
+
+header {
+    width: 80%;
+    display: flex;
+    margin-inline: auto;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+    padding-bottom: 10px;
+}
+
+#page-header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#logo {
+    height: 80px;
+    width: auto;
+}
+
+h1 {
+    font-family: Recursive;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 71px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FF7575;
+}
+
+h2 {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
