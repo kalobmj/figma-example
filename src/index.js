@@ -11,7 +11,7 @@ console.log({articleCardContainer});
 const articleCards = [];
 
 // fill up article container
-for (let i=0; i<9; i++) {
+for (let i=1; i<9; i++) {
 
     articleCards.push(articleCard)
 
