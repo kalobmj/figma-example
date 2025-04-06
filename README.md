@@ -1,5 +1,6 @@
 ### recreating figma-example april 2025 ☕😎
 ### 🛫 we are practicing building a static webpage
+➡️ https://kalobmj.github.io/figma-example/src/index.html
 <hr>
 ✅ copying this figma example:
 <br>
